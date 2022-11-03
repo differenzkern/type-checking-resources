@@ -1,8 +1,8 @@
 # helpful resources for implementing a type checker
 
 ## pattern unification
-- https://adam.gundry.co.uk/pub/pattern-unify/
 - [chapter 4](https://adam.gundry.co.uk/pub/thesis/thesis-2013-12-03.pdf)
+- https://adam.gundry.co.uk/pub/pattern-unify/
 
 ## normalization by evaluation
 - https://davidchristiansen.dk/tutorials/implementing-types-hs.pdf (there is also a racket version on their webpage but I find the haskell version better digestable by at least an order of magnitude)
