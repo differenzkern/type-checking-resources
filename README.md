@@ -9,7 +9,7 @@
 - https://github.com/AndrasKovacs/elaboration-zoo
 
 ## hindley milner type inference
-- some carnegie mellon ocaml course that always includes a chapter/tutorial about hindley milner inference, but which I can't find right now at the moment
+- some carnegie mellon ocaml course that always includes a chapter/tutorial about hindley milner inference, but which I can't find right now
 
 
 ## other interesting stuff
