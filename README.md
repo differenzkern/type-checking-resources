@@ -1,7 +1,7 @@
 # helpful resources for implementing a type checker
 
 ## pattern unification
-- [chapter 4](https://adam.gundry.co.uk/pub/thesis/thesis-2013-12-03.pdf)
+- [Chapter 4 of Type Inference, Haskell and Dependent Types](https://adam.gundry.co.uk/pub/thesis/thesis-2013-12-03.pdf)
 - https://adam.gundry.co.uk/pub/pattern-unify/
 
 ## normalization by evaluation
