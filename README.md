@@ -13,3 +13,4 @@
 
 ## other interesting stuff
 - https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf
+- [What is algebraic about algebraic effects](https://www.eff-lang.org/handlers-tutorial.pdf)
